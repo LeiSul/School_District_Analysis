@@ -32,4 +32,5 @@ The original Summary numbers match within close percentages to the reworked modi
   - Removal of the NaN scores of 461 9th grade students led to the push of Thomas High School from mid lower 
   range to the top 2nd school.
 
+![school summary chart](images/School_Summary_chart.png)
 
